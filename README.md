@@ -2,7 +2,7 @@
 
 A sample Cake Shop Website built with ASP.NET Core (Multi-Page Application)
 
-![screenshot1](./screenshots/screenshot1.png)
+
 
 ## APP/Code Features 
 - Only Admin can perform Create/Edit/Delete cakes & manage Orders.
@@ -55,9 +55,4 @@ A sample Cake Shop Website built with ASP.NET Core (Multi-Page Application)
         > dotnet run 
     ```
 
-## Sceenshots
-![screenshot2](./screenshots/screenshot2.png)
-![screenshot3](./screenshots/screenshot3.png)
-![screenshot4](./screenshots/screenshot4.png)
-![screenshot5](./screenshots/screenshot5.png)
-![screenshot6](./screenshots/screenshot6.png)
+
